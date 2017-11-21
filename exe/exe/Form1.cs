@@ -16,8 +16,10 @@ namespace exe
         {
             InitializeComponent();
         }
+
+        Properties.Settings.Default.con="";
         public SqlConnection conn1 = new SqlConnection(Properties.Settings.Default.con);
-        public  SqlConnection conn =new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\AIN ADMIN\AIN DHANILJITH\samatha\samath\samath\samatha_dh.mdf;Integrated Security=True;Connect Timeout=30");
+       // public  SqlConnection conn =new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\AIN ADMIN\AIN DHANILJITH\samatha\samath\samath\samatha_dh.mdf;Integrated Security=True;Connect Timeout=30");
         Int32 number;
         string name;
         string address;
