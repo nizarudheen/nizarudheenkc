@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestDbModel1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TestDbModel1StoreContainer">
+    <EntitySet Name="salesman" EntityType="TestDbModel1.Store.salesman" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="salesman">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="int" Nullable="false" />
+    <Property Name="sl_man_name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="sl_man_address" Type="varchar(max)" />
+    <Property Name="sl_man_dob" Type="date" />
+    <Property Name="sl_man_mob" Type="nchar" MaxLength="10" />
+  </EntityType>
+</Schema>

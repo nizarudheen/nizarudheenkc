@@ -1,0 +1,6 @@
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\bin\Debug\swaping two numbers.exe.config
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\bin\Debug\swaping two numbers.exe
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\bin\Debug\swaping two numbers.pdb
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\obj\Debug\swaping two numbers.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\obj\Debug\swaping two numbers.exe
+D:\nizar\Myworks\swaping two numbers\swaping two numbers\obj\Debug\swaping two numbers.pdb

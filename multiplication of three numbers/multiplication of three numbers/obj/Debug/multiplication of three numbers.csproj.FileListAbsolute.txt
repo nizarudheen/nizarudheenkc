@@ -1,0 +1,6 @@
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\bin\Debug\multiplication of three numbers.exe.config
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\bin\Debug\multiplication of three numbers.exe
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\bin\Debug\multiplication of three numbers.pdb
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\obj\Debug\multiplication of three numbers.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\obj\Debug\multiplication of three numbers.exe
+D:\nizar\Myworks\multiplication of three numbers\multiplication of three numbers\obj\Debug\multiplication of three numbers.pdb

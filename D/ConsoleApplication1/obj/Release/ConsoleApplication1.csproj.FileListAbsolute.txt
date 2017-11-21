@@ -1,0 +1,5 @@
+D:\nizar\Myworks\helloworld\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\nizar\Myworks\helloworld\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\nizar\Myworks\helloworld\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\nizar\Myworks\helloworld\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\nizar\Myworks\helloworld\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

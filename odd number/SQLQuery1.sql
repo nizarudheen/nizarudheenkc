@@ -1,0 +1,8 @@
+﻿create table course(course_id int,course_name varchar(50))
+insert into course values(1,'bse')
+insert into course values(2,'mse')
+insert into course values(3,'b tec')
+insert into course values(4,'be')
+insert into course values(5,'poly')
+insert into course values(6,'mbbs')
+insert into course values(7,'bds')

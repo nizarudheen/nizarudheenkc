@@ -1,0 +1,1 @@
+﻿select sale_detail.bill_no,sale_head.sh_name,sale_head.sh_date,sale_detail.sd_item_code,sale_detail.sd_item,sale_detail.sd_price,sale_detail.sd_quantity,sale_detail.sd_total from sale_detail left outer join sale_head on sale_detail.bill_no=sale_head.bill_no where bill_no=1 order by sale_detail.sd_item_code 

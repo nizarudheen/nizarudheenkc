@@ -1,0 +1,10 @@
+D:\nizar\Myworks\exe\exe\bin\Debug\exe.exe.config
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.Form1.resources
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.Properties.Resources.resources
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.csproj.GenerateResource.Cache
+D:\nizar\Myworks\exe\exe\bin\Debug\exe.exe
+D:\nizar\Myworks\exe\exe\bin\Debug\exe.pdb
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.exe
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.pdb
+D:\nizar\Myworks\exe\exe\obj\Debug\exe.display.resources

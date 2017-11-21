@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mathematical operation", "mathematical operation\mathematical operation.csproj", "{003E4019-0FFD-4B5B-B3AB-6A58E9A109DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003E4019-0FFD-4B5B-B3AB-6A58E9A109DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003E4019-0FFD-4B5B-B3AB-6A58E9A109DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003E4019-0FFD-4B5B-B3AB-6A58E9A109DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003E4019-0FFD-4B5B-B3AB-6A58E9A109DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

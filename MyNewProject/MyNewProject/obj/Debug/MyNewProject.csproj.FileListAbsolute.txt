@@ -1,0 +1,9 @@
+D:\nizar\Myworks\MyNewProject\MyNewProject\bin\Debug\MyNewProject.exe.config
+D:\nizar\Myworks\MyNewProject\MyNewProject\bin\Debug\MyNewProject.exe
+D:\nizar\Myworks\MyNewProject\MyNewProject\bin\Debug\MyNewProject.pdb
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.Form1.resources
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.Properties.Resources.resources
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.csproj.GenerateResource.Cache
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.exe
+D:\nizar\Myworks\MyNewProject\MyNewProject\obj\Debug\MyNewProject.pdb

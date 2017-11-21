@@ -1,0 +1,5 @@
+D:\nizar\Myworks\Tourism\Tourism\bin\Tourism.dll
+D:\nizar\Myworks\Tourism\Tourism\bin\Tourism.pdb
+D:\nizar\Myworks\Tourism\Tourism\obj\Debug\Tourism.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\Tourism\Tourism\obj\Debug\Tourism.dll
+D:\nizar\Myworks\Tourism\Tourism\obj\Debug\Tourism.pdb

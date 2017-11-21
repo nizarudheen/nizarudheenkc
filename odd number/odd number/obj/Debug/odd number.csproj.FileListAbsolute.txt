@@ -1,0 +1,12 @@
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd number.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd_number.Form1.resources
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd_number.Form2.resources
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd_number.Form3.resources
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd_number.Form4.resources
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd_number.Properties.Resources.resources
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd number.csproj.GenerateResource.Cache
+D:\nizar\Myworks\odd number\odd number\bin\Debug\odd number.exe.config
+D:\nizar\Myworks\odd number\odd number\bin\Debug\odd number.exe
+D:\nizar\Myworks\odd number\odd number\bin\Debug\odd number.pdb
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd number.exe
+D:\nizar\Myworks\odd number\odd number\obj\Debug\odd number.pdb

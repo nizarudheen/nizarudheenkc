@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TestDbModelStoreContainer" CdmEntityContainer="TestDbEntities">
+    <EntitySetMapping Name="salesmen">
+      <EntityTypeMapping TypeName="TestDbModel.salesman">
+        <MappingFragment StoreEntitySet="salesman">
+          <ScalarProperty Name="no" ColumnName="no" />
+          <ScalarProperty Name="sl_man_name" ColumnName="sl_man_name" />
+          <ScalarProperty Name="sl_man_address" ColumnName="sl_man_address" />
+          <ScalarProperty Name="sl_man_dob" ColumnName="sl_man_dob" />
+          <ScalarProperty Name="sl_man_mob" ColumnName="sl_man_mob" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

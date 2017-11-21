@@ -1,0 +1,5 @@
+D:\nizar\Myworks\mathematical operation\mathematical operation\bin\Debug\mathematical operation.exe.config
+D:\nizar\Myworks\mathematical operation\mathematical operation\bin\Debug\mathematical operation.exe
+D:\nizar\Myworks\mathematical operation\mathematical operation\bin\Debug\mathematical operation.pdb
+D:\nizar\Myworks\mathematical operation\mathematical operation\obj\Debug\mathematical operation.exe
+D:\nizar\Myworks\mathematical operation\mathematical operation\obj\Debug\mathematical operation.pdb

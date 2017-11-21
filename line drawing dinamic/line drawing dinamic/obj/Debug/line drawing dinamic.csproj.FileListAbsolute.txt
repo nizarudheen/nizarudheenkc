@@ -1,0 +1,9 @@
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\bin\Debug\line drawing dinamic.exe.config
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\bin\Debug\line drawing dinamic.exe
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\bin\Debug\line drawing dinamic.pdb
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line drawing dinamic.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line_drawing_dinamic.Form1.resources
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line_drawing_dinamic.Properties.Resources.resources
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line drawing dinamic.csproj.GenerateResource.Cache
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line drawing dinamic.exe
+D:\nizar\Myworks\line drawing dinamic\line drawing dinamic\obj\Debug\line drawing dinamic.pdb

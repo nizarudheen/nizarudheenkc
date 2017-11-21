@@ -1,0 +1,6 @@
+D:\nizar\Myworks\555\55\bin\Debug\55.exe.config
+D:\nizar\Myworks\555\55\bin\Debug\55.exe
+D:\nizar\Myworks\555\55\bin\Debug\55.pdb
+D:\nizar\Myworks\555\55\obj\Debug\55.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\555\55\obj\Debug\55.exe
+D:\nizar\Myworks\555\55\obj\Debug\55.pdb

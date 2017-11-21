@@ -1,0 +1,6 @@
+D:\nizar\Myworks\do while\do while\bin\Debug\do while.exe.config
+D:\nizar\Myworks\do while\do while\bin\Debug\do while.exe
+D:\nizar\Myworks\do while\do while\bin\Debug\do while.pdb
+D:\nizar\Myworks\do while\do while\obj\Debug\do while.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\do while\do while\obj\Debug\do while.exe
+D:\nizar\Myworks\do while\do while\obj\Debug\do while.pdb

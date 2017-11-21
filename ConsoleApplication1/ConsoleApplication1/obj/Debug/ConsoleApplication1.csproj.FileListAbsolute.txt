@@ -1,0 +1,6 @@
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\nizar\Myworks\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

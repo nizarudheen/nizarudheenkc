@@ -1,0 +1,1 @@
+﻿delete from sale_detail

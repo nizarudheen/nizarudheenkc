@@ -1,0 +1,6 @@
+D:\nizar\Myworks\printing num\printing num\bin\Debug\printing num.exe.config
+D:\nizar\Myworks\printing num\printing num\bin\Debug\printing num.exe
+D:\nizar\Myworks\printing num\printing num\bin\Debug\printing num.pdb
+D:\nizar\Myworks\printing num\printing num\obj\Debug\printing num.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\printing num\printing num\obj\Debug\printing num.exe
+D:\nizar\Myworks\printing num\printing num\obj\Debug\printing num.pdb

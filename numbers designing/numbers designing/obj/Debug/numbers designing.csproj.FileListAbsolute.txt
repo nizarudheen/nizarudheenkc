@@ -1,0 +1,6 @@
+D:\nizar\Myworks\numbers designing\numbers designing\bin\Debug\numbers designing.exe.config
+D:\nizar\Myworks\numbers designing\numbers designing\bin\Debug\numbers designing.exe
+D:\nizar\Myworks\numbers designing\numbers designing\bin\Debug\numbers designing.pdb
+D:\nizar\Myworks\numbers designing\numbers designing\obj\Debug\numbers designing.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\numbers designing\numbers designing\obj\Debug\numbers designing.exe
+D:\nizar\Myworks\numbers designing\numbers designing\obj\Debug\numbers designing.pdb

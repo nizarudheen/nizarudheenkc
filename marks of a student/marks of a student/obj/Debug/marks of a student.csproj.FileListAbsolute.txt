@@ -1,0 +1,6 @@
+D:\nizar\Myworks\marks of a student\marks of a student\bin\Debug\marks of a student.exe.config
+D:\nizar\Myworks\marks of a student\marks of a student\obj\Debug\marks of a student.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\marks of a student\marks of a student\bin\Debug\marks of a student.exe
+D:\nizar\Myworks\marks of a student\marks of a student\bin\Debug\marks of a student.pdb
+D:\nizar\Myworks\marks of a student\marks of a student\obj\Debug\marks of a student.exe
+D:\nizar\Myworks\marks of a student\marks of a student\obj\Debug\marks of a student.pdb

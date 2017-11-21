@@ -1,0 +1,9 @@
+D:\nizar\Myworks\average csharp\average csharp\bin\Debug\average csharp.exe.config
+D:\nizar\Myworks\average csharp\average csharp\bin\Debug\average csharp.exe
+D:\nizar\Myworks\average csharp\average csharp\bin\Debug\average csharp.pdb
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average csharp.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average_csharp.Form1.resources
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average_csharp.Properties.Resources.resources
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average csharp.csproj.GenerateResource.Cache
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average csharp.exe
+D:\nizar\Myworks\average csharp\average csharp\obj\Debug\average csharp.pdb

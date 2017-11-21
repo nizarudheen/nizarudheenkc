@@ -1,0 +1,6 @@
+D:\nizar\Myworks\cube of a number\cube of a number\bin\Debug\cube of a number.exe.config
+D:\nizar\Myworks\cube of a number\cube of a number\bin\Debug\cube of a number.exe
+D:\nizar\Myworks\cube of a number\cube of a number\bin\Debug\cube of a number.pdb
+D:\nizar\Myworks\cube of a number\cube of a number\obj\Debug\cube of a number.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\cube of a number\cube of a number\obj\Debug\cube of a number.exe
+D:\nizar\Myworks\cube of a number\cube of a number\obj\Debug\cube of a number.pdb

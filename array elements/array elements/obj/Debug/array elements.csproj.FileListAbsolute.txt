@@ -1,0 +1,6 @@
+D:\nizar\Myworks\array elements\array elements\bin\Debug\array elements.exe.config
+D:\nizar\Myworks\array elements\array elements\bin\Debug\array elements.exe
+D:\nizar\Myworks\array elements\array elements\bin\Debug\array elements.pdb
+D:\nizar\Myworks\array elements\array elements\obj\Debug\array elements.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\array elements\array elements\obj\Debug\array elements.exe
+D:\nizar\Myworks\array elements\array elements\obj\Debug\array elements.pdb

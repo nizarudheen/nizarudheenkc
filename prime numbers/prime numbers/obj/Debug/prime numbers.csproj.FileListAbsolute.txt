@@ -1,0 +1,6 @@
+D:\nizar\Myworks\prime numbers\prime numbers\bin\Debug\prime numbers.exe.config
+D:\nizar\Myworks\prime numbers\prime numbers\bin\Debug\prime numbers.exe
+D:\nizar\Myworks\prime numbers\prime numbers\bin\Debug\prime numbers.pdb
+D:\nizar\Myworks\prime numbers\prime numbers\obj\Debug\prime numbers.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\prime numbers\prime numbers\obj\Debug\prime numbers.exe
+D:\nizar\Myworks\prime numbers\prime numbers\obj\Debug\prime numbers.pdb

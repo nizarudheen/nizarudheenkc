@@ -1,0 +1,6 @@
+D:\nizar\Myworks\ddf first\first\bin\Debug\first.exe.config
+D:\nizar\Myworks\ddf first\first\bin\Debug\first.exe
+D:\nizar\Myworks\ddf first\first\bin\Debug\first.pdb
+D:\nizar\Myworks\ddf first\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\ddf first\first\obj\Debug\first.exe
+D:\nizar\Myworks\ddf first\first\obj\Debug\first.pdb

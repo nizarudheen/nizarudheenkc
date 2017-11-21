@@ -1,0 +1,11 @@
+D:\nizar\Myworks\demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\nizar\Myworks\demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\nizar\Myworks\demo\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Checking.resources
+D:\nizar\Myworks\demo\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Listbox_Printing.resources

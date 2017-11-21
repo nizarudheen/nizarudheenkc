@@ -1,0 +1,9 @@
+D:\nizar\Myworks\image\image\bin\Debug\image.exe.config
+D:\nizar\Myworks\image\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\image\image\obj\Debug\image.Form1.resources
+D:\nizar\Myworks\image\image\obj\Debug\image.Properties.Resources.resources
+D:\nizar\Myworks\image\image\obj\Debug\image.csproj.GenerateResource.Cache
+D:\nizar\Myworks\image\image\bin\Debug\image.exe
+D:\nizar\Myworks\image\image\bin\Debug\image.pdb
+D:\nizar\Myworks\image\image\obj\Debug\image.exe
+D:\nizar\Myworks\image\image\obj\Debug\image.pdb

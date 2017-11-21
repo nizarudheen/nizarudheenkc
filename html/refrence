@@ -1,0 +1,42 @@
+<!DOCTYPE HTML)
+<html>
+<body style="padding: 2%" >
+	<a href="https://www.google.co.in/search?q=image&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi1z_-fn67XAhWKOI8KHU2LDwYQ_AUICigB&biw=1024&bih=662#imgrc=b50DtEOhmQ23hM:"><h1 title="nothing" style="color: balck" > What is Earth?<sup>oi</sup></h1></a>
+	<a href="https://www.google.co.in/search?q=image&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi1z_-fn67XAhWKOI8KHU2LDwYQ_AUICigB&biw=1024&bih=662#imgrc=b50DtEOhmQ23hM:" style="text-decoration: none;text-align: center;"><h1 style="color:blue">  NATURE</h1></a>
+	<img src="image/kadal.jpg" alt="moundains" width="950" height="600">
+	<p style="color: red">Nature, in the broadest sense, is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large part of science. Although humans are part of nature, human activity is often understood as a separate category from other natural phenomena.
+
+The word nature is derived from the Latin word natura, or "essential qualities, innate disposition", and in ancient times, literally meant "birth". Natura is a Latin translation of the Greek word physis s, which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, the physical universe, is one of several expansions of the original notion; it began with certain core applications of the word φύσις by pre-Socratic philosophers, and has steadily gained currency ever since. This usage continued during the advent of modern scientific method in the last several centuries</p>
+
+	<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+		<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+
+
+
+		<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+
+	<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+
+	<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+
+	<img src="image/ptant.jpg" alt="plant" width="150" height="150">
+	<table border="10">
+		<tr>
+			<th><h1>Name</h1> <input type="textbox" value="geyg" > </th>
+			<th><h1>age</h1></th>
+			<th><h1>id</h1></th>
+		</tr>
+		<tr>
+			<td>ajay</td>
+			<td>22</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>athithya</td>
+			<td>22</td>
+			<td>2</td>
+		</tr>
+	</table>
+
+</body>
+</html>

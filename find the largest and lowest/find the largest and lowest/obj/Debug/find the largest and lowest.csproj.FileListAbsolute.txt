@@ -1,0 +1,6 @@
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\bin\Debug\find the largest and lowest.exe.config
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\bin\Debug\find the largest and lowest.exe
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\bin\Debug\find the largest and lowest.pdb
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\obj\Debug\find the largest and lowest.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\obj\Debug\find the largest and lowest.exe
+D:\nizar\Myworks\find the largest and lowest\find the largest and lowest\obj\Debug\find the largest and lowest.pdb

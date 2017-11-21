@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="TestDbModelStoreContainer">
+    <EntitySet Name="salesman" EntityType="TestDbModel.Store.salesman" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.purchase_detail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.purchase_head' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.sale_deleted' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.sale_detail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="salesman">
+    <Key>
+      <PropertyRef Name="no" />
+    </Key>
+    <Property Name="no" Type="int" Nullable="false" />
+    <Property Name="sl_man_name" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="sl_man_address" Type="varchar(max)" />
+    <Property Name="sl_man_dob" Type="date" />
+    <Property Name="sl_man_mob" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.setting' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <!--Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.brand' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="brand">
+        <Property Name="brandid" Type="int" />
+        <Property Name="brand_name" Type="varchar" MaxLength="50" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.category' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="category">
+        <Property Name="catg_id" Type="int" />
+        <Property Name="catg_name" Type="varchar" MaxLength="50" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.course' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="course">
+        <Property Name="course_id" Type="int" />
+        <Property Name="course_name" Type="varchar" MaxLength="50" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.data' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="data">
+        <Property Name="id" Type="int" />
+        <Property Name="name" Type="varchar" MaxLength="50" />
+        <Property Name="img" Type="varbinary(max)" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.marks' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="marks">
+        <Property Name="ad_no" Type="int" />
+        <Property Name="sub_no" Type="int" />
+        <Property Name="mark" Type="int" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.staf' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="staf">
+        <Property Name="st_id" Type="int" />
+        <Property Name="st_name" Type="varchar" MaxLength="50" />
+        <Property Name="sub_id" Type="int" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.student' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="student">
+        <Property Name="ad_no" Type="int" />
+        <Property Name="name" Type="varchar" MaxLength="50" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.studentdetails' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="studentdetails">
+        <Property Name="admission_no" Type="int" />
+        <Property Name="name" Type="varchar" MaxLength="50" />
+        <Property Name="sex" Type="varchar" MaxLength="50" />
+        <Property Name="course" Type="varchar" MaxLength="50" />
+        <Property Name="address" Type="varchar" MaxLength="50" />
+        <Property Name="mobile" Type="int" />
+        <Property Name="email" Type="varchar" MaxLength="50" />
+        <Property Name="pic" Type="image" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.subject' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="subject">
+        <Property Name="sub_id" Type="int" />
+        <Property Name="sub_name" Type="varchar" MaxLength="50" />
+      </EntityType>
+      Errors Found During Generation:
+      warning 6013: The table/view 'D:\NIZAR\MYWORKS\INVENTORY\INVENTORY\TESTDB.MDF.dbo.unit' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+      
+      <EntityType Name="unit">
+        <Property Name="unit_id" Type="int" />
+        <Property Name="unit_name" Type="varchar" MaxLength="50" />
+      </EntityType>-->
+</Schema>

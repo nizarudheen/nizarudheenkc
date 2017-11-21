@@ -1,0 +1,5 @@
+D:\nizar\Myworks\average of four numbers\average of four numbers\bin\Debug\average of four numbers.exe.config
+D:\nizar\Myworks\average of four numbers\average of four numbers\bin\Debug\average of four numbers.exe
+D:\nizar\Myworks\average of four numbers\average of four numbers\bin\Debug\average of four numbers.pdb
+D:\nizar\Myworks\average of four numbers\average of four numbers\obj\Debug\average of four numbers.exe
+D:\nizar\Myworks\average of four numbers\average of four numbers\obj\Debug\average of four numbers.pdb

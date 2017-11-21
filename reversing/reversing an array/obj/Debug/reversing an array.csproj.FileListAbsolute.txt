@@ -1,0 +1,6 @@
+D:\nizar\Myworks\reversing\reversing an array\bin\Debug\reversing an array.exe.config
+D:\nizar\Myworks\reversing\reversing an array\bin\Debug\reversing an array.exe
+D:\nizar\Myworks\reversing\reversing an array\bin\Debug\reversing an array.pdb
+D:\nizar\Myworks\reversing\reversing an array\obj\Debug\reversing an array.exe
+D:\nizar\Myworks\reversing\reversing an array\obj\Debug\reversing an array.pdb
+D:\nizar\Myworks\reversing\reversing an array\obj\Debug\reversing an array.csprojResolveAssemblyReference.cache

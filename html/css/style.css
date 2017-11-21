@@ -1,0 +1,37 @@
+#history:hover{
+	background: white;
+	color: blue;
+	
+}
+
+#services:hover{
+	background: white;
+	color: blue;
+	
+}
+#Home:hover{
+	background: white;
+	color: blue;
+	
+}
+.header
+{
+background-color: #7875a2;
+border: solid;
+border-color: #7875a2;	
+}
+#png{
+	margin-left:30%; 
+}
+li a.active{
+	background-color: #4CAF50;
+	        text-decoration:none;
+
+
+
+}
+li a.text{
+	text-decoration:none;
+}
+
+

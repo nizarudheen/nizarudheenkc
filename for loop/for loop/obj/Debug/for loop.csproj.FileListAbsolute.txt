@@ -1,0 +1,6 @@
+D:\nizar\Myworks\for loop\for loop\bin\Debug\for loop.exe.config
+D:\nizar\Myworks\for loop\for loop\bin\Debug\for loop.exe
+D:\nizar\Myworks\for loop\for loop\bin\Debug\for loop.pdb
+D:\nizar\Myworks\for loop\for loop\obj\Debug\for loop.exe
+D:\nizar\Myworks\for loop\for loop\obj\Debug\for loop.pdb
+D:\nizar\Myworks\for loop\for loop\obj\Debug\for loop.csprojResolveAssemblyReference.cache

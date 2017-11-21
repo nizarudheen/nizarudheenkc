@@ -1,0 +1,1 @@
+﻿select sl_man_name,no from salesman where no=5

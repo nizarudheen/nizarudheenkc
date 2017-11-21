@@ -1,0 +1,6 @@
+D:\nizar\Myworks\area\area of a rectangle\bin\Debug\area of a rectangle.exe.config
+D:\nizar\Myworks\area\area of a rectangle\bin\Debug\area of a rectangle.exe
+D:\nizar\Myworks\area\area of a rectangle\bin\Debug\area of a rectangle.pdb
+D:\nizar\Myworks\area\area of a rectangle\obj\Debug\area of a rectangle.csprojResolveAssemblyReference.cache
+D:\nizar\Myworks\area\area of a rectangle\obj\Debug\area of a rectangle.exe
+D:\nizar\Myworks\area\area of a rectangle\obj\Debug\area of a rectangle.pdb
