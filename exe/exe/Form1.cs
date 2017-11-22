@@ -17,9 +17,9 @@ namespace exe
             InitializeComponent();
         }
 
-        Properties.Settings.Default.con="";
+       // Properties.Settings.Default.con="";
         public SqlConnection conn1 = new SqlConnection(Properties.Settings.Default.con);
-       // public  SqlConnection conn =new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\AIN ADMIN\AIN DHANILJITH\samatha\samath\samath\samatha_dh.mdf;Integrated Security=True;Connect Timeout=30");
+       public  SqlConnection conn =new SqlConnection(@"Data Source=(LocalDB)\v11.0;AttachDbFilename=D:\AIN ADMIN\AIN DHANILJITH\samatha\samath\samath\samatha_dh.mdf;Integrated Security=True;Connect Timeout=30");
         Int32 number;
         string name;
         string address;
@@ -98,7 +98,7 @@ namespace exe
             }
 
             conn.Open();
-           SqlCommand cmd = new SqlCommand("insert into profile values(@number,@name,@adderss,@mobile,@photo)", conn);
+            SqlCommand cmd = new SqlCommand("insert into profile values(@number,@name,@adderss,@mobile,@photo)", conn);
            cmd.Parameters.AddWithValue("@number", number);
            cmd.Parameters.AddWithValue("@name", name);
            cmd.Parameters.AddWithValue("@adderss", address);
